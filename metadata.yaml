@@ -1,11 +1,16 @@
 _repo: The-captivity-sufferings-and-escape-of-James-Scurry-Who-was-detained-a-prisoner-during-ten-ye__51176
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51176-h/images/cover.jpg
 creator:
   author:
     agent_name: Scurry, James
     gutenberg_agent_id: '46276'
     url: http://www.gutenberg.org/2009/agents/46276
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51176#The-captivity-sufferings-and-escape-of-James-Scurry-Who-was-detained-a-prisoner-during-ten-ye_
 gutenberg_issued: '2016-02-11'
 gutenberg_type: Text
 identifiers:
