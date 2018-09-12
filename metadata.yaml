@@ -1,0 +1,25 @@
+_repo: The-captivity-sufferings-and-escape-of-James-Scurry-Who-was-detained-a-prisoner-during-ten-ye__51176
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scurry, James
+    gutenberg_agent_id: '46276'
+    url: http://www.gutenberg.org/2009/agents/46276
+description: ''
+gutenberg_issued: '2016-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Haidar Ali, Nawab of Mysore, approximately 1722-1782'
+- !lcc 'DS'
+- !lcsh 'India -- History -- British occupation, 1765-1947'
+- !lcsh 'Tipu Sultan, Fath ''Ali, Nawab of Mysore, 1753-1799'
+- GITenberg
+title: "The captivity, sufferings, and escape of James Scurry\r\nWho was detained\
+  \ a prisoner during ten years, in the dominions of Hyder Ali and Tippoo Saib"
+url: http://www.gutenberg.org/ebooks/51176
